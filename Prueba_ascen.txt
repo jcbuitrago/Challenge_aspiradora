@@ -1,0 +1,17 @@
+16
+Cuarto_1, 0
+Cuarto_2, 1
+Cuarto_3, 2
+Cuatro_4, 3
+Cuarto_5, 4
+Cuarto_6, 5
+Cuarto_7, 6
+Cuarto_8, 7
+Cuarto_9, 8
+Cuatro_10, 9
+Cuarto_11, 10
+Cuarto_12, 11
+Cuarto_13, 12
+Cuarto_14, 13
+Cuarto_15, 14
+Cuatro_16, 15

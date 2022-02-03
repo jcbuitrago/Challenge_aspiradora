@@ -1,0 +1,7 @@
+6
+Cuarto_1, 8
+Cuarto_2, 1
+Cuarto_3, 7
+Cuatro_4, 3
+Cuarto_5, 6
+Cuarto_6, 2
